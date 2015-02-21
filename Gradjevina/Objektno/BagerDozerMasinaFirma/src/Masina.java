@@ -33,7 +33,8 @@ public class Masina {
     }
 
     /**
-     * 5)
+     * 5) Napisati metode u klasi Masina kojima se pristupa,  odnosno menja vrednost polja godiste
+     * ovo je deo za pristup godistu
      *
      * @return - vraca godiste masine
      */
@@ -42,7 +43,8 @@ public class Masina {
     }
 
     /**
-     * 5)
+     * 5) Napisati metode u klasi Masina kojima se pristupa,  odnosno menja vrednost polja godiste
+     * ovo je deo za menjanje godista
      *
      * @param godiste - novo godiste masine
      */
@@ -51,7 +53,7 @@ public class Masina {
     }
 
     /**
-     * 6)
+     * 6) Napisati metod u klasi Masina koji vraca true ako je masina novija u odnosu na zadatu masinu
      *
      * @param m - masina u odnosu na koju proveravamo
      * @return - true/false u zavisnosti da li je nasa masina novija u odnosu na Masinu m

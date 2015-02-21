@@ -9,6 +9,7 @@ public class Dozer extends Masina {
 
     /**
      * 13) Moramo dodati ovaj konstruktor da bi zadatak radio
+     *
      * @param serijskiBroj
      * @param godiste
      * @param brojSati
@@ -26,13 +27,14 @@ public class Dozer extends Masina {
     }
 
     /**
-     * 12)
+     * 12) Prepisati metod toString() u klasi Dozer koji formira tekst opis dozera,
+     * ukljucujuci i njegove osobine kao masine
      *
      * @return - teksualna reprezentacija Dozera
      */
     @Override
     public String toString() {
-        return  "radnaZapremina = " + radnaZapremina +
+        return "radnaZapremina = " + radnaZapremina +
                 "kd1 = " + kd1 +
                 "kd2 = " + kd2 +
                 "kd3 = " + kd3 +

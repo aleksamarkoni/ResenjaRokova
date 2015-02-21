@@ -8,7 +8,8 @@ public class Bager extends Masina {
     private double kb3; //koeficijent bagera 3
 
     /**
-     * 10)
+     * 10) Dodati konstruktor u klasi bager (voditi racuna o tome da je klasa izvedena iz klase Masina)
+     *
      * @param serijskiBroj
      * @param godiste
      * @param brojSati
@@ -26,7 +27,8 @@ public class Bager extends Masina {
     }
 
     /**
-     * 11)
+     * 11) Prepisati ucinak() u klasi Bager tako da se racuna prema formuli teorijskiUcinak * kb1 * kb2 * kb3
+     *
      * @return - ucinak za masinu
      */
     public double ucinak() {
