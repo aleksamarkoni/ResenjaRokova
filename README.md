@@ -18,6 +18,8 @@ neparan broj j).
 3. Napisati glavni program kojim se ucitava kvadratna matrica A reda N i niz T duzine M. Izracunati matricu C prema 
 sledecoj formuli:
 
+![](Images/image_one.png)
+
   gde je B1 = A/1 ako je matrica t1 A takva da je srednja vrednost elemenata ispod glavne dijagonale veca od minimalnog
   elementa u njenoj prvoj koloni ina;e je B1 = i * A (koristiti potprogram iz prve tacke). Za matricu C i niz T pozvati
   potprogram iz druge tacke i odstampati njegov rezultat.
@@ -28,7 +30,9 @@ sledecoj formuli:
 1. Ucitati kvadratnu matricu C reda M. Odstampati ucitane podatke.
 2. Formirati i odstampati niz D prema sledecem pravilu: i-ti element niza D jednak je najvecoj vrednosti u i-toj koloni matrice C koja je pun kvadrat.
 3. Formirati i odstampati matricu A prema sledecoj semi:
-SLIKA
+
+![](Images/image_two.png)
+
 4. Odrediti i odstampati vrstu matrice C sa najmanjim brojem elemenata koji u dekadnom zapisu nemaju parnu cifru.
 5. Transformisati matricu C promenom redosleda kolona tako da elementi glavne dijagonale transformisane matrice budu sortirani u rastuci redosled.
 
@@ -36,3 +40,5 @@ SLIKA
 1. Napisati potprogram kojim se pronalazi prost delilac koji je najblizi korenu zadatog broja.
 2. Napisati potprogram kojim se pronalazi elemenat niza koji ima najvise razlicitih delilacaa.
 3. Ucitati celobrojni niz Y duzine N. Formirati niz X tako sto se njegov i-ti element dobija pozivom potprograma pod 1) za Y(i). Odrediti broj Z pozivom potprograma pod b) za niz Y. Formirati i odstampati matricu:
+
+![](Images/image_three.png)
