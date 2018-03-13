@@ -29,6 +29,17 @@ sledecoj formuli:
 1. Napisati potprogram kojim se pronalazi najveci element matrice A dimenzije MxN.
 2. Napisati potprogram kojim se za zadatu kvadratnu matricu A reda N formira matrica B takva da je element B1 jednak zbiru svih elemenata matrice A koji pripadaju kvadratu 3x3 sa centrom u (i, j).
 3. Napisati glavni program kojim se ucitavaju brojevi M i N i niz duzine M kvadratnih matrica reda N. Pronaci matricu P iz niza ciji je najveci element dobijen potprogramom pod 1) najmanji. Koriscenjem potprograma pod 2) od matrice P formirati matricu Q. Odstampati ulazne podatke i matricu Q.
+
+### Grupa 4
+1. Ucitati celobrojne nizove A duzine M i B duzine N. Odstampati ucitane podatke.
+2. Odrediti i odstampati broj elemenata niza A ciji je kvadratni koren ceo broj, a veci su od srednje vrednosti elemenata niza B.
+3. Formirati i odstmapati matricu C prema sledecoj semi.
+
+
+
+4. Odrediti i odstmapati najvecu vrednost u nizu B cija je najmanja cifra broj deljiv brojev 3. 
+5. Transformisati niz A tako da u njemu budu najveci od svih elemenata iz oba niza. Problem resiti bez uvodjenja novih nizova.
+
   
 ## 12.06.2007.
 ### Grupa 1
@@ -66,6 +77,11 @@ sledecoj formuli:
 1. Napisati potprogram za mnozenje matrica A dimenzija MxK i B dimenzija KxN.
 2. Napisati potprogram koji za zadatu kvadratnu matricu A reda n racuna zbir svih clanova matrice koji se nalaze na sivim pozicijama sa slike (kao sahovska tabla), a koji su ujedno i celi brojevi.
 
+![](Images/image_five.png)
+
+3. Napisati glavni program kojim se ucitava prirodan broj n i kvadratna matrica A reda n. Izracunati i odstampati matricu C prema sledecoj formuli:
+
+![](Images/image_six.png)
 
 
 
