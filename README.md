@@ -31,15 +31,21 @@ sledecoj formuli:
 3. Napisati glavni program kojim se ucitavaju brojevi M i N i niz duzine M kvadratnih matrica reda N. Pronaci matricu P iz niza ciji je najveci element dobijen potprogramom pod 1) najmanji. Koriscenjem potprograma pod 2) od matrice P formirati matricu Q. Odstampati ulazne podatke i matricu Q.
 
 ### Grupa 4
+
 1. Ucitati celobrojne nizove A duzine M i B duzine N. Odstampati ucitane podatke.
 2. Odrediti i odstampati broj elemenata niza A ciji je kvadratni koren ceo broj, a veci su od srednje vrednosti elemenata niza B.
 3. Formirati i odstmapati matricu C prema sledecoj semi.
 
-
+![](Images/image_seven.png)
 
 4. Odrediti i odstmapati najvecu vrednost u nizu B cija je najmanja cifra broj deljiv brojev 3. 
 5. Transformisati niz A tako da u njemu budu najveci od svih elemenata iz oba niza. Problem resiti bez uvodjenja novih nizova.
 
+### Grupa 5 
+
+1. Napisati potprogram kojim se pronalazi drugi po velicini element matrice A dimenzija MxN.
+2. Napisati potprogram kojim se za zadatu kvadratnu matricu A reda N formira matrica B takva da je element Bq jednak zbiru elemenata matrice A koji pripadaju i-toj vrsti i j-toj koloni matrice, a nisu veci od elemenata Aq.
+3.
   
 ## 12.06.2007.
 ### Grupa 1
