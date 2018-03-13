@@ -24,6 +24,12 @@ sledecoj formuli:
   elementa u njenoj prvoj koloni ina;e je B1 = i * A (koristiti potprogram iz prve tacke). Za matricu C i niz T pozvati
   potprogram iz druge tacke i odstampati njegov rezultat.
   
+### Grupa 3
+
+1. Napisati potprogram kojim se pronalazi najveci element matrice A dimenzije MxN.
+2. Napisati potprogram kojim se za zadatu kvadratnu matricu A reda N formira matrica B takva da je element B1 jednak zbiru svih elemenata matrice A koji pripadaju kvadratu 3x3 sa centrom u (i, j).
+3. Napisati glavni program kojim se ucitavaju brojevi M i N i niz duzine M kvadratnih matrica reda N. Pronaci matricu P iz niza ciji je najveci element dobijen potprogramom pod 1) najmanji. Koriscenjem potprograma pod 2) od matrice P formirati matricu Q. Odstampati ulazne podatke i matricu Q.
+  
 ## 12.06.2007.
 ### Grupa 1
 
@@ -37,8 +43,14 @@ sledecoj formuli:
 5. Transformisati matricu C promenom redosleda kolona tako da elementi glavne dijagonale transformisane matrice budu sortirani u rastuci redosled.
 
 ### Grupa 2
+
 1. Napisati potprogram kojim se pronalazi prost delilac koji je najblizi korenu zadatog broja.
 2. Napisati potprogram kojim se pronalazi elemenat niza koji ima najvise razlicitih delilacaa.
 3. Ucitati celobrojni niz Y duzine N. Formirati niz X tako sto se njegov i-ti element dobija pozivom potprograma pod 1) za Y(i). Odrediti broj Z pozivom potprograma pod b) za niz Y. Formirati i odstampati matricu:
 
 ![](Images/image_three.png)
+
+## 03.09.2007.
+
+1
+
