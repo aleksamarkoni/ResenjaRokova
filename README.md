@@ -51,6 +51,21 @@ sledecoj formuli:
 ![](Images/image_three.png)
 
 ## 03.09.2007.
+### Grupa 1
 
-1
+1. Ucitati broj N, niz X duzine N i kvadratnu matricu A reda N. Odstampati ucitane podatke.
+2. Izracunati crednju elemenata niza koji su najveci od srednje vrednosti vrednosti celog niza.
+3. Neka je Y=X<sup>t</sup>XA<sup>t</sup>X. Formirati matricu:
+
+![](Images/image_four.png)
+
+4. Formirati niz Z tako sto se u svakoj dijagonali matrice A paralelnoj sporednoj pronalazi najmanji elemenat.
+5. Preurediti redosled elemenata niza X tako da svaki naredni element ima ne manje cifara od prethodnog. Odstampati komentar ukoliko to nije moguce.
+
+### Grupa 2
+1. Napisati potprogram za mnozenje matrica A dimenzija MxK i B dimenzija KxN.
+2. Napisati potprogram koji za zadatu kvadratnu matricu A reda n racuna zbir svih clanova matrice koji se nalaze na sivim pozicijama sa slike (kao sahovska tabla), a koji su ujedno i celi brojevi.
+
+
+
 
