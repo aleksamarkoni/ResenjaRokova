@@ -45,7 +45,12 @@ sledecoj formuli:
 
 1. Napisati potprogram kojim se pronalazi drugi po velicini element matrice A dimenzija MxN.
 2. Napisati potprogram kojim se za zadatu kvadratnu matricu A reda N formira matrica B takva da je element Bq jednak zbiru elemenata matrice A koji pripadaju i-toj vrsti i j-toj koloni matrice, a nisu veci od elemenata Aq.
-3.
+3. Napisati glavni program kojim se ucitavaju brojevi M i N i kvadratna  matrica A reda N. Koriscenjem potprograma pod 2) od 
+matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati zbir 
+
+![](Images/image_one.png)
+
+  i za matricu C izracunati i odstampati drugi element po velicini.
   
 ## 12.06.2007.
 ### Grupa 1
