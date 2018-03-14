@@ -85,6 +85,7 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 5. Preurediti redosled elemenata niza X tako da svaki naredni element ima ne manje cifara od prethodnog. Odstampati komentar ukoliko to nije moguce.
 
 ### Grupa 2
+
 1. Napisati potprogram za mnozenje matrica A dimenzija MxK i B dimenzija KxN.
 2. Napisati potprogram koji za zadatu kvadratnu matricu A reda n racuna zbir svih clanova matrice koji se nalaze na sivim pozicijama sa slike (kao sahovska tabla), a koji su ujedno i celi brojevi.
 
@@ -93,6 +94,17 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 3. Napisati glavni program kojim se ucitava prirodan broj n i kvadratna matrica A reda n. Izracunati i odstampati matricu C prema sledecoj formuli:
 
 ![](Images/image_six.png)
+
+## 16.01.2007.
+### Grupa 1
+
+1. Ucitati kvadratnu matricu A reda M i niz P duzine M. Odstampati ucitane podatke.
+2. Odrediti i odstampati polozaj i vrednost najmanjeg pozitivnog elementa matrica A.
+3. Odrediti i odstampati matricu B prema sledecoj formuli:
+
+
+
+
 
 
 
