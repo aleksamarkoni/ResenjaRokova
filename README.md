@@ -86,7 +86,10 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 ### Grupa 4
 
 1. Napisati potprogram kojim se pronalazi slozen delilac zadatog broja. 
-2.
+2. Napisati potprogram kojim se pronalazi elemenat niza koji ima koren najviseg reda koji je ceo broj (npr. u nizu 17, 27, 13, 64, 125, to je 64 = 2<sup>6</sup>)
+3. Ucitati celobrojni niz Y duzine N. Formirati niz X tako sto se njegov i-ti element dobija pozivom potprogramapod 1) za Y(i). Odrediti broj Z pozivom potprograma pod 2) za niz Y. Formirati i odstmapati matricu:
+
+
 
 
 ## 03.09.2007.
