@@ -89,8 +89,7 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 2. Napisati potprogram kojim se pronalazi elemenat niza koji ima koren najviseg reda koji je ceo broj (npr. u nizu 17, 27, 13, 64, 125, to je 64 = 2<sup>6</sup>)
 3. Ucitati celobrojni niz Y duzine N. Formirati niz X tako sto se njegov i-ti element dobija pozivom potprogramapod 1) za Y(i). Odrediti broj Z pozivom potprograma pod 2) za niz Y. Formirati i odstmapati matricu:
 
-
-
+![](Images/image_ten.png)
 
 ## 03.09.2007.
 ### Grupa 1
@@ -135,6 +134,16 @@ vrste matrice A tako da elementi M+1 kolone budu sortirani u opadajuci raspored.
 razlomljenog dela zadatog broja.
 2. Napisati potprogram koji medju elementima zadatog niza pronalazi najveci koji je manji od svog razlomljenog dela, kada se on posmatra kao ceo broj.
 3. Napisati glavni program kojim se ucitavaju nizovi X i Y duzine N. Neka je Q vrednost koja se dobija pozivom potprograma pod 2, za niz X. Izracunati srednju vrednost elemenata niza Y takvih da su veci od celog dela broja Q, a manji od njegovog razlomljenog dela, kada se on posmatra kao ceo broj.
+
+## 31.03.2005.
+### Grupa 1
+
+1. Ucitati niz A duzine M i kvadratnu matricu B reda M. odstmapati ucitane podatke. 
+2. Odrediti i odstampati vrednost onog elementa niza A koji se najvise razlike od elementa B(M.M).
+3. Za svaku kolonu matrice B odrediti broj elemenata koji se javljaju u nizu A. **Napomena**: Svaka kolona matrice B moze da sadrzi elemente koji se ponavljaju.
+4. Odstampati one elemente niza A ciji je ceo deo zapisan istim ciframa kao i razlomljeni deo.
+5. Formirati i odstampati matricu C po sledecem pravilu: element C(i,j) jednak je zbiru elemenata matrice B koji ne pripadaju levoj i desnoj dijagonali elementa B(i,j).
+
 
 
 
