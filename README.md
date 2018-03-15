@@ -72,6 +72,12 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 
 ![](Images/image_three.png)
 
+### Grupa 3
+1. Ucitati celobrojnu kvadratnu matricu C reda M. Odstampati ucitane podatke.
+2. Formirati i odstampati niz D prema sledecem pravilu: i-ti element niza D jednak je najmanjoj vrednost u i-toj vrsti matrice C koja je deljiva brojem 3.
+3. Formirati i odstampati matricu A prema sledecoj semi:
+
+
 ## 03.09.2007.
 ### Grupa 1
 
@@ -108,6 +114,13 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 5. U matricu A dodati (M+1) kolonu ciji elementi predstavljaju prosecne vrednosti odgovarajucih vrsta matrice A. Zameniti
 vrste matrice A tako da elementi M+1 kolone budu sortirani u opadajuci raspored. Odstampati transformisanu matricu. 
 **Napomena: zadatak resiti bez uvodjenja pomocnih matrica.**
+
+### Grupa 2
+
+1. Napisati potprogram koji za zadati razlomljeni broj izracunava ceo broj ciji je dekadni zapis isti kao dekadni zapis 
+razlomljenog dela zadatog broja.
+2. Napisati potprogram koji medju elementima zadatog niza pronalazi najveci koji je manji od svog razlomljenog dela, kada se on posmatra kao ceo broj.
+3. Napisati glavni program kojim se ucitavaju nizovi X i Y duzine N. Neka je Q vrednost koja se dobija pozivom potprograma pod 2, za niz X. Izracunati srednju vrednost elemenata niza Y takvih da su veci od celog dela broja Q, a manji od njegovog razlomljenog dela, kada se on posmatra kao ceo broj.
 
 
 
