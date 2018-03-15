@@ -102,6 +102,16 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 2. Odrediti i odstampati polozaj i vrednost najmanjeg pozitivnog elementa matrica A.
 3. Odrediti i odstampati matricu B prema sledecoj formuli:
 
+![](Images/image_eight.png)
+
+4. Formirati niz Q od onih elemenata matrice A koji se u matrici pojavljuju paran broj puta.
+5. U matricu A dodati (M+1) kolonu ciji elementi predstavljaju prosecne vrednosti odgovarajucih vrsta matrice A. Zameniti
+vrste matrice A tako da elementi M+1 kolone budu sortirani u opadajuci raspored. Odstampati transformisanu matricu. 
+**Napomena: zadatak resiti bez uvodjenja pomocnih matrica.**
+
+
+
+
 
 
 
