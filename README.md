@@ -144,7 +144,17 @@ razlomljenog dela zadatog broja.
 4. Odstampati one elemente niza A ciji je ceo deo zapisan istim ciframa kao i razlomljeni deo.
 5. Formirati i odstampati matricu C po sledecem pravilu: element C(i,j) jednak je zbiru elemenata matrice B koji ne pripadaju levoj i desnoj dijagonali elementa B(i,j).
 
+### Grupa 2 
 
+1. Napisati potprogram za resavanje jednacine F(x)=G(x)<sup>2</sup>, gde su F i G zadate funkcije. Problem resiti primenom Newton-ovog metoda, sa pocetom iteracijom X<sub>0</sub> dozvoljenim brojem iteracija M i tacnoscu EPS. Prvi izvodi funkcija F i G su zadati potprogramima DF i DG.
+2. Napisati potprograme za izracunavanje funkcija:
+
+![](Images/image_eleven.png)
+  
+  i G(x)=x/(x-b) (b je konstanta) kao i njihovih prvih izvoda DF i DG.
+3. Napisati glavni program kojim se ucitavaju brojevi X<sub>0</sub>, EPS, M, N i nizovi A i B duzine N. Nizom A definisana je funkcija F opisana pod 2). Resiti sve jednacine F(x)=x/(x-B(i)) pozivom potprograma pod a), sa dozvoljenim brojem iteracija M, tacnoscu EPS i pocetnom iteracijom X<sub>0</sub>. Resavanje sprovesti samo ako je prekid funkcije G(x)=x/(x-B(i)) nije u EPS okolini pocetne iteracije. Medju resenjima dobijenim sa trazenom tacnoscu odrediti ono za koje je odstupanje F(x)-G(x)<sup>2</sup> najmanje po apsolutnoj vrednosti.
+  
+  
 
 
 
