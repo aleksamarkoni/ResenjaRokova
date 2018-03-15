@@ -153,8 +153,19 @@ razlomljenog dela zadatog broja.
   
   i G(x)=x/(x-b) (b je konstanta) kao i njihovih prvih izvoda DF i DG.
 3. Napisati glavni program kojim se ucitavaju brojevi X<sub>0</sub>, EPS, M, N i nizovi A i B duzine N. Nizom A definisana je funkcija F opisana pod 2). Resiti sve jednacine F(x)=x/(x-B(i)) pozivom potprograma pod a), sa dozvoljenim brojem iteracija M, tacnoscu EPS i pocetnom iteracijom X<sub>0</sub>. Resavanje sprovesti samo ako je prekid funkcije G(x)=x/(x-B(i)) nije u EPS okolini pocetne iteracije. Medju resenjima dobijenim sa trazenom tacnoscu odrediti ono za koje je odstupanje F(x)-G(x)<sup>2</sup> najmanje po apsolutnoj vrednosti.
-  
-  
+
+## 04.04.2007
+### Grupa 1
+
+1. Sastaviti potprogram za izracunavanje sledece funkcije 
+
+![](Images/image_twelve.png)
+
+gde je n zadati broj.
+
+2. Sastaviti potprogram za resavanje jednacine P<sub>N</sub>(X)+P<sub></sub>
+
+
 
 
 
