@@ -73,9 +73,20 @@ matrice A formirati matricu B. Odstampati ulazne podatke i matricu B. Izracunati
 ![](Images/image_three.png)
 
 ### Grupa 3
+
 1. Ucitati celobrojnu kvadratnu matricu C reda M. Odstampati ucitane podatke.
 2. Formirati i odstampati niz D prema sledecem pravilu: i-ti element niza D jednak je najmanjoj vrednost u i-toj vrsti matrice C koja je deljiva brojem 3.
 3. Formirati i odstampati matricu A prema sledecoj semi:
+
+![](Images/image_nine.png)
+
+4. Odrediti i odstampati kolonu matrice C sa najvecim brojem elemenata koji u dekadnom zapisu imaju 0.
+5. Transformisati matricu C promenom redosleda vrste tako da elementi sporedne dijagonale transformisane matrice budu sortirani u opadajuci redosled.
+
+### Grupa 4
+
+1. Napisati potprogram kojim se pronalazi slozen delilac zadatog broja. 
+2.
 
 
 ## 03.09.2007.
