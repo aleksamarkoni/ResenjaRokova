@@ -173,6 +173,7 @@ gde je n zadati broj.
 4. Odrediti i odstampati prvi pronadjeni par vrednosti K i L prema sledecem postupku: ako je K-ti element niza C negativan tada u K-toj vrsti matrice A odrediti polozaj L najmanje negativne vrednosti, ako posotoji. **Napomena: Smatrati da se vrednosti K i L sigurno mogu odrediti**.
 5. Transformisati i odstampati matricu A prema sledecim formulama:
 
+![](Images/image_thirteen.png)
 
 
 
