@@ -163,7 +163,9 @@ razlomljenog dela zadatog broja.
 
 gde je n zadati broj.
 
-2. Sastaviti potprogram za resavanje jednacine P<sub>N</sub>(X)+P<sub></sub>
+2. Sastaviti potprogram za resavanje jednacine P<sub>N</sub>(X)+P<sub>K</sub>(X) = w, za zadate brojeve N i K, metodom Regula falsi sa tacnoscu EPS i dozvoljenim brojem iteracije M, ako je P polinom definisan pod 1). Resenje se nalazi u segmentu [A,B].
+
+3. Sastaviti glavni program kojim se ucitavaju brojevi M, N, L, EPS, K i matrica A sa K vrsta i tri kolone. Za svaku vrstu matrice A izracunati resenje jednacine P<sub>N</sub>(X) - P<sub>L</sub>(X)= A(I,1) metodom Regula falsi na segmentu [A(1,2),A(I,3)], sa tacnoscu EPS i dozvoljenim brojem iteracija M, gde je P polinom definisan pod 1). Prethodno proveriti postojanje nule u zadatom segmentu. Medju izracunatim resenjima pronaci ono cije je odstupanje P<sub>N</sub>(X) - P<sub>L</sub>(X) - A(I,1) najmanje.
 
 
 
