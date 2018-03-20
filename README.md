@@ -162,10 +162,17 @@ razlomljenog dela zadatog broja.
 ![](Images/image_twelve.png)
 
 gde je n zadati broj.
-
 2. Sastaviti potprogram za resavanje jednacine P<sub>N</sub>(X)+P<sub>K</sub>(X) = w, za zadate brojeve N i K, metodom Regula falsi sa tacnoscu EPS i dozvoljenim brojem iteracije M, ako je P polinom definisan pod 1). Resenje se nalazi u segmentu [A,B].
-
 3. Sastaviti glavni program kojim se ucitavaju brojevi M, N, L, EPS, K i matrica A sa K vrsta i tri kolone. Za svaku vrstu matrice A izracunati resenje jednacine P<sub>N</sub>(X) - P<sub>L</sub>(X)= A(I,1) metodom Regula falsi na segmentu [A(1,2),A(I,3)], sa tacnoscu EPS i dozvoljenim brojem iteracija M, gde je P polinom definisan pod 1). Prethodno proveriti postojanje nule u zadatom segmentu. Medju izracunatim resenjima pronaci ono cije je odstupanje P<sub>N</sub>(X) - P<sub>L</sub>(X) - A(I,1) najmanje.
+
+### Grupa 2
+
+1. Ucitati kvadratnu matricu A reda M i niz C duzine M. Odstampati ucitane podatke.
+2. Odrediti i odstampati vrednost kvadratne forme C<sup>T</sup>AC.
+3. Formirati i odstmapati niz V ciji je i-ti element jednak apsolutnoj razlici dve najmanje vrednosti u i-toj vrsti matrice A.
+4. Odrediti i odstampati prvi pronadjeni par vrednosti K i L prema sledecem postupku: ako je K-ti element niza C negativan tada u K-toj vrsti matrice A odrediti polozaj L najmanje negativne vrednosti, ako posotoji. **Napomena: Smatrati da se vrednosti K i L sigurno mogu odrediti**.
+5. Transformisati i odstampati matricu A prema sledecim formulama:
+
 
 
 
