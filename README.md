@@ -175,7 +175,17 @@ gde je n zadati broj.
 
 ![](Images/image_thirteen.png)
 
+## 15.10.2006.
+### Grupa 1
 
+1. Ucitati kvadratnu matricu A reda M i niz P duzine M. Odstampati ucitane podatke.
+2. Odrediti i odstampati broj elemenata matrice A koji su veci od srednje vrednosti pozitivnih elemenata niza P.
+3. Odrediti i odstampati matricu B prema sledecoj formuli
+
+![](Images/image_fourteen.png)
+
+4. Odrediti i odstampati vrednost koja se u matrici A pojavljuje najveci broj puta.
+5. Zameniti polozaj vrsta matrice A tako da elementi prve kolone matrice A budu postavljeni u rastuci raspored. U slucaju postojanja istih vrednosti u prvoj koloni matrice A zamenu izvrsiti prema elementima druge kolone tako da elementi u drugoj koloni budu rasporedjeni u opadajuci raspored. Odstampati transofrmisanu matricu A.
 
 
 
