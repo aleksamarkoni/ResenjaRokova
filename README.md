@@ -187,6 +187,27 @@ gde je n zadati broj.
 4. Odrediti i odstampati vrednost koja se u matrici A pojavljuje najveci broj puta.
 5. Zameniti polozaj vrsta matrice A tako da elementi prve kolone matrice A budu postavljeni u rastuci raspored. U slucaju postojanja istih vrednosti u prvoj koloni matrice A zamenu izvrsiti prema elementima druge kolone tako da elementi u drugoj koloni budu rasporedjeni u opadajuci raspored. Odstampati transofrmisanu matricu A.
 
+### Grupa 2
+
+1. Sastaviti potprogram za izracunavanje sledece funkcije, gde je n zadati broj.
+
+![](Images/image_fifteen.png)
+
+2. Sastaviti potprogram za resavanje jedancine P(x) = w, metodom Regula falsi sa tacnoscu EPS i dozvoljenim brojem iteracije M, ako je P polinom stepena 2N definisan pod 1). Resenje se nalazi u segmentu [A,B].
+3. Sastaviti glavni program kojim se ucitavaju brojevi M, N, EPS, K i matrica A sa K vrsta i tri kolone. Za svaku vrstu matrice A izracunati resenje jednacine P(x) = A(I, 1) metodom Regula falsi na segmentu [A(1,2), A(1,3)], sa tacnoscu EPS i dozvoljenim brojem iteracija M, gde je P polinom stepena 2N + 1 definisan pod 1). Prethodno proveriti postojanje nule u zadatom segmentu. Medju izracunatim resenjima pronaci ono cije je odstupanje [P(x) - A(I,1)] najmanje.
+
+## 18.04.2006.
+### Grupa 1
+
+1. Ucitati kvadratne matrice A i B reda M i niz X duzine M. Odstampati ucitane podatke.
+2. Sracunati i odstampati
+
+![](Images/image_sixteen.png)
+
+3. Za svaku kolonu i matrice A odrediti broj elemenata 
+
+
+
 
 
 
